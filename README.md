@@ -22,19 +22,21 @@
 
 > You can add **github_inquirer** with one command via:
 
-###### terminal
+
 
 You can run the provided `run.sh` script to install and start both the agent and the UI automatically:
 
 ### Steps:
 
 1. Clone the repository:
+   ###### terminal
    ```bash
    git clone https://github.com/ArnavK-09/github_inquirer.git
    cd github_inquirer
    ```
 
-2. Run the setup script:
+3. Run the setup script:
+   ###### terminal
    ```bash
    ./run.sh
    ```
@@ -49,24 +51,29 @@ You can run the provided `run.sh` script to install and start both the agent and
 
 1. **Run the backend (LangGraph Agent):**
    - Navigate to the `agent` directory:
+     ###### terminal
      ```bash
      cd agent
      ```
    - Run the Poetry agent:
+     ###### terminal
      ```bash
      poetry run agent &
      ```
 
 2. **Run the frontend (Next.js with Tailwind CSS):**
    - Return to the root directory:
+     ###### terminal
      ```bash
      cd ..
      ```
    - Navigate to the `gui` directory:
+     ###### terminal
      ```bash
      cd gui
      ```
    - Start the development server:
+     ###### terminal
      ```bash
      npm run dev
      ```
