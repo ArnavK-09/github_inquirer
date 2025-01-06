@@ -1,5 +1,5 @@
 <h1 align="center">🍢 github_inquirer 🍢</h1>
-<h2 align="center">AI-powered GitHub Repository Inquiry and Search</h2>
+<h2 align="center">AI-powered GitHub repository search transformer</h2>
 
 <p align="center">
     <img alt="hero" width="450" src="https://emoji-route.deno.dev/svg/🍢" />
@@ -70,7 +70,7 @@ You can run the provided `run.sh` script to install and start both the agent and
      ```bash
      npm run dev
      ```
-```
+
 
 ## 📷 Screenshots
 
@@ -82,6 +82,11 @@ You can run the provided `run.sh` script to install and start both the agent and
 | ![Demo](screenshot.jpeg) |
 
 ## 📹 Video Demo
+
+
+
+https://github.com/user-attachments/assets/24ea75b2-fd50-41ae-9bf0-2b7f08759d5d
+
 
 
 ---
