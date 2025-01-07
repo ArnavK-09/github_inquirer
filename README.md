@@ -156,7 +156,7 @@ Found a bug or need help? Please create an issue on the [GitHub repository](http
 <h2 align="center">📄 License</h2>
 
 <p align="center">
-<strong>github_inquirer</strong> is licensed under the <code>Unlicense</code> License. See the <a href="https://github.com/ArnavK-09/github_inquirer/blob/main/LICENSE">LICENSE</a> file for more details.
+<strong>github_inquirer</strong> is licensed under the <code>MIT</code> License. See the <a href="https://github.com/ArnavK-09/github_inquirer/blob/main/LICENSE">LICENSE</a> file for more details.
 </p>
 
 ---
